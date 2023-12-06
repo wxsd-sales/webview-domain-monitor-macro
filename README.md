@@ -1,6 +1,6 @@
 # WebView Domain Monitor Macro
 
-This is an example macro which closes any open Web App WebView on a Webex Device if URL is not in the macros approved list.
+This is an example macro which closes any open Web App WebView on a Webex Device if the URL is not in the macros approved list.
 
 
 ## Overview
